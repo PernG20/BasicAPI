@@ -18,12 +18,6 @@
         "detail":"ssss"
     },
     {
-        "title":"Python คือ?",
-        "subtitle":"ภาษาเขียนโปรแกรมชนิดหนึ่ง สร้างขึ้นเมื่อ 1991",
-        "image_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1280px-Python_logo_and_wordmark.svg.png",
-        "detail":"dfdff" 
-    },
-    {
         "title" : "Dart ຄື​?",
         "subtitle":"ภาษาเขียนโปรแกรมชนิดหนึ่ง สร้างขึ้นเมื่อ 2019",
         "image_url" : "https://dart.dev/assets/shared/dart-logo-for-shares.png?2",
