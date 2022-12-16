@@ -1,0 +1,33 @@
+[
+    {
+        "title":"คอมพิวเตอร์คืออะไร?",
+        "subtitle":"คอมพิวเตอร์ คือ อุปกรณ์ที่ใช้สำหรับการคำนวณและทำงานอื่นๆ?",
+        "image_url":"https://cdn.pixabay.com/photo/2016/11/29/06/18/home-office-1867761_960_720.jpg",
+        "detail":"dfdf"
+    },
+    {
+        "title":"มาเขียนโปรแกรมกัน!",
+        "subtitle":"บทความนี้จะแนะนำการเริ่มต้นเขียนโปรแกรม",
+        "image_url":"https://th.bing.com/th/id/OIP.DTcXd8D_rP4LhYWN79PuEQHaEE?pid=ImgDet&rs=1",
+        "detail":"dsf"
+    },
+    {
+        "title":"Flutter คือ?",
+        "subtitle":"Tools สำหรับออกแบบ UI ของ Google",
+        "image_url":"https://cdn.pixabay.com/photo/2014/03/22/22/17/phone-292994_960_720.jpg",
+        "detail":"ssss"
+    },
+    {
+        "title" : "Dart ຄື​?",
+        "subtitle":"ภาษาเขียนโปรแกรมชนิดหนึ่ง สร้างขึ้นเมื่อ 2019",
+        "image_url" : "https://dart.dev/assets/shared/dart-logo-for-shares.png?2",
+        "detail" : "__OPO"
+    },
+    {
+        "title":"Python คือ?",
+        "subtitle":"ภาษาเขียนโปรแกรมชนิดหนึ่ง สร้างขึ้นเมื่อ 1991",
+        "image_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1280px-Python_logo_and_wordmark.svg.png",
+        "detail":"dfdff" 
+    }
+
+]
