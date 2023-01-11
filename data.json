@@ -2,25 +2,25 @@
     {
         "title":"คอมพิวเตอร์คืออะไร?",
         "subtitle":"คอมพิวเตอร์ คือ อุปกรณ์ที่ใช้สำหรับการคำนวณและทำงานอื่นๆ?",
-        "image_url":"https://cdn.pixabay.com/photo/2016/11/29/06/18/home-office-1867761_960_720.jpg",
+        "image_url":"https://raw.githubusercontent.com/PernG20/BasicAPI/main/computer.jpg?token=GHSAT0AAAAAAB5ECBIOHLZG6G4QFV4XXZRKY562GSA",
         "detail":"dfdf"
     },
     {
         "title":"มาเขียนโปรแกรมกัน!",
         "subtitle":"บทความนี้จะแนะนำการเริ่มต้นเขียนโปรแกรม",
-        "image_url":"https://th.bing.com/th/id/OIP.DTcXd8D_rP4LhYWN79PuEQHaEE?pid=ImgDet&rs=1",
+        "image_url":"https://raw.githubusercontent.com/PernG20/BasicAPI/main/programlg.jpg?token=GHSAT0AAAAAAB5ECBIPKHQ2ZUFPOUJRJAPCY562IDA",
         "detail":"dsf"
     },
     {
         "title":"Flutter คือ?",
         "subtitle":"Tools สำหรับออกแบบ UI ของ Google",
-        "image_url":"https://cdn.pixabay.com/photo/2014/03/22/22/17/phone-292994_960_720.jpg",
+        "image_url":"https://raw.githubusercontent.com/PernG20/BasicAPI/main/flutterlogo.jpg?token=GHSAT0AAAAAAB5ECBIPZEELWD3X3D6GO6S2Y562I6Q",
         "detail":"ssss"
     },
     {
         "title" : "Dart ຄື​?",
         "subtitle":"ภาษาเขียนโปรแกรมชนิดหนึ่ง สร้างขึ้นเมื่อ 2019",
-        "image_url" : "https://dart.dev/assets/shared/dart-logo-for-shares.png?2",
+        "image_url" : "https://raw.githubusercontent.com/PernG20/BasicAPI/main/dart-logo.jpg?token=GHSAT0AAAAAAB5ECBIOZRRJMIVMIVZ5VAJGY562JRA",
         "detail" : "__OPO"
     }
 
